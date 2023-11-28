@@ -18,7 +18,7 @@ NEWSPIDER_MODULE = "PriceScrapper.spiders"
 #USER_AGENT = "Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.88 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
 
 # Obey robots.txt rules
-ROBOTSTXT_OBEY = False
+ROBOTSTXT_OBEY = True
 PROXY_POOL_ENABLED = True
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
