@@ -71,7 +71,7 @@ class CarrefourSpider(scrapy.Spider):
                 cb_kwargs=dict(main_url=url, page_number=0),
             )
 
-    def parse(self, response, main_url, page_number):
+    async def parse(self, response, main_url, page_number):
         soup = BeautifulSoup(response.text, 'html.parser')
         div_map = self.carrefour_map[main_url]
         product_containers = soup.find_all('div', class_=div_map['productContainer'])
