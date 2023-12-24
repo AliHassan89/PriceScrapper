@@ -1,0 +1,906 @@
+[
+  {
+    "product_name": "Lindt - Lindor pralinki z mlecznej czekolady",
+    "price": 39.99
+  },
+  {
+    "product_name": "Lindt - Lindor pralinki z nadzieniem truflowym",
+    "price": 39.99
+  },
+  {
+    "product_name": "Lindt - Praliny o smaku kremu truskawkowego ",
+    "price": 14.99
+  },
+  {
+    "product_name": "Lindt - Praliny o smaku s\u0142onego karmelu ",
+    "price": 14.99
+  },
+  {
+    "product_name": "Lindt - Lindor Hazelnut mleczna z orzechami",
+    "price": 16.97
+  },
+  {
+    "product_name": "Lindt - Lindor Praliny kokosowe",
+    "price": 16.97
+  },
+  {
+    "product_name": "Lindt - Lindor Praliny mleczne",
+    "price": 16.97
+  },
+  {
+    "product_name": "Lindt - Nadziewane praliny w mlecznej bia\u0142ej i gorzkiej czekoladzie",
+    "price": 16.97
+  },
+  {
+    "product_name": "Lindt - Pralinki z czekolady gorzkiej z nadzieniem",
+    "price": 16.97
+  },
+  {
+    "product_name": "Lindt - Lindor 60 % Cocoa Pralinki z gorzkiej czekolady",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor Pralinki mleczne z truskawkami ",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor praliny kokosowe w czekoladzie",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor Praliny Milk ",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor praliny s\u0142ony karmel ",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor Praliny z czekolady mlecznej",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor Praliny z czekolady mlecznej bia\u0142ej i gorzkiej\u00a0",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor praliny z dodatkiem orzech\u00f3w laskowych ",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Praliny czekoladowe z nadzieniem pistacjowym",
+    "price": 24.98
+  },
+  {
+    "product_name": "Lindt - Lindor Praliny ciemna czekolada 70% kakao",
+    "price": 24.98
+  },
+  {
+    "product_name": "Kopernik - Pierniki w czekoladzie katarzynki",
+    "price": 2.78
+  },
+  {
+    "product_name": "Kopernik - Serca toru\u0144skie oblane lukrem o smaku czarnej porzeczki",
+    "price": 3.99
+  },
+  {
+    "product_name": "Kopernik - Serca toru\u0144skie oblane lukrem o smaku pomara\u0144czowym",
+    "price": 3.99
+  },
+  {
+    "product_name": "Kinder - Czekoladki z nadzieniem mlecznym ",
+    "price": 8.77
+  },
+  {
+    "product_name": "Toffifee - Orzech laskowy w karmelu w kremie orzechowym i czekoladzie",
+    "price": 9.68
+  },
+  {
+    "product_name": "Wawel - Czekolada nadziewana ry\u017c dmuchany",
+    "price": 11.99
+  },
+  {
+    "product_name": "Alpen Gold - Nussbeisser czekolada mleczna z orzechami laskowymi i rodzynkami",
+    "price": 16.47
+  },
+  {
+    "product_name": "Ferrero - Mon cheri praliny z czekolady z ca\u0142\u0105 czere\u015bni\u0105 w likierze",
+    "price": 19.97
+  },
+  {
+    "product_name": "Edle Tropfen - Praliny z alkoholem orzechowe bia\u0142e specja\u0142y",
+    "price": 20.99
+  },
+  {
+    "product_name": "Ferrero Rocher - Ferrero collection bombonierka mix ",
+    "price": 22.94
+  },
+  {
+    "product_name": "Hamlet - Praliny \u015bwi\u0105teczne z belgijsk\u0105 czekolad\u0105 ",
+    "price": 24.49
+  },
+  {
+    "product_name": "Ferrero Rocher - Praliny",
+    "price": 26.98
+  },
+  {
+    "product_name": "Storck - Praliny orzech laskowy w karmelu i czekoladzie",
+    "price": 29.99
+  },
+  {
+    "product_name": "Solidarno\u015b\u0107 - \u015aliwka Na\u0142\u0119czowska",
+    "price": 49.89
+  },
+  {
+    "product_name": "Mieszko - Bombonierka Amoretta Desserts  ",
+    "price": 54.99
+  },
+  {
+    "product_name": "Ferrero Rocher - Praliny rocher diamante",
+    "price": 39.79
+  },
+  {
+    "product_name": "Hamlet - Mix pralinek i czekoladek nadziewanych z belgijsk\u0105 czekolad\u0105",
+    "price": 43.99
+  },
+  {
+    "product_name": "Ferrero - Collection mieszanka pralin",
+    "price": 51.99
+  },
+  {
+    "product_name": "Goplana - Figurka czekoladow anio\u0142 ch\u0142opiec",
+    "price": 1.99
+  },
+  {
+    "product_name": "Goplana - Figurka czekoladowa anio\u0142 dziewczynka",
+    "price": 1.99
+  },
+  {
+    "product_name": "Cosmo - Ba\u0142wanek mix figurek z czekolady",
+    "price": 7.49
+  },
+  {
+    "product_name": "Cosmo - Miko\u0142aj z czekolady",
+    "price": 2.69
+  },
+  {
+    "product_name": "Cosmo - Zestaw czekoladowy \u015bwi\u0105teczny",
+    "price": 8.99
+  },
+  {
+    "product_name": "E.Wedel - Figurka czekoladowa ",
+    "price": 5.98
+  },
+  {
+    "product_name": "RAKPOL - Mieszanka \u015bwi\u0105tecznych figurek z czekolady",
+    "price": 8.99
+  },
+  {
+    "product_name": "Lindt - Mi\u015b z mlecznej czekolady",
+    "price": 16.99
+  },
+  {
+    "product_name": "Milka - Czekoladowy miko\u0142aj o smaku piernikowym",
+    "price": 11.99
+  },
+  {
+    "product_name": "RAKPOL - \u015awi\u0105teczny kubek",
+    "price": 28.99
+  },
+  {
+    "product_name": "Mieszko - Baton marcepanowy amoretta ",
+    "price": 2.69
+  },
+  {
+    "product_name": "Roksana - Lizak o smaku owocowym ",
+    "price": 5.49
+  },
+  {
+    "product_name": "Haribo - \u017belki Starmix   ",
+    "price": 6.89
+  },
+  {
+    "product_name": "Haribo - \u017belki Z\u0142ote Misie z sokiem",
+    "price": 6.89
+  },
+  {
+    "product_name": "Wawel - Czekolada banan z karmelem",
+    "price": 13.49
+  },
+  {
+    "product_name": "Mieszko - Tw\u00f3j sekret praliny w czekoladzie mlecznej i deserowej ",
+    "price": 16.58
+  },
+  {
+    "product_name": "RAKPOL - But \u015bwi\u0105teczny z czekoladkami",
+    "price": 22.99
+  },
+  {
+    "product_name": "Storck - Toffifee praliny orzechowe w karmelu i czekoladzie ",
+    "price": 28.14
+  },
+  {
+    "product_name": "Auchan - Wafelek przek\u0142adany kremem kakaowym w czekoladzie",
+    "price": 0.89
+  },
+  {
+    "product_name": "Auchan - Wafelek przek\u0142adany kremem orzechowym w czekoladzie",
+    "price": 0.89
+  },
+  {
+    "product_name": "Auchan - Czekolada mleczna",
+    "price": 6.19
+  },
+  {
+    "product_name": "Auchan - Czekolada mleczna o smaku solonego karmelu",
+    "price": 6.99
+  },
+  {
+    "product_name": "Lindt - Czekolada mleczna",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Czekolada mleczna z nadzieniem \u015bliwkowym",
+    "price": 13.98
+  },
+  {
+    "product_name": "Auchan - Czekolada deserowa",
+    "price": 8.49
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka 64% kakao",
+    "price": 9.99
+  },
+  {
+    "product_name": "Wawel - Czekolada z nadzieniem o smaku szarlotki",
+    "price": 13.49
+  },
+  {
+    "product_name": "Lindt - Marille czekolada nadziewana",
+    "price": 13.98
+  },
+  {
+    "product_name": "Lindt - Czekolada mleczna z nadzieniem koniakowym",
+    "price": 15.98
+  },
+  {
+    "product_name": "Lindt - Czekolada mleczna z nadzieniem Williams Brandy",
+    "price": 15.98
+  },
+  {
+    "product_name": "Lindt - Czekolada mleczna z nadzieniem z likierem Kirsch",
+    "price": 15.98
+  },
+  {
+    "product_name": "Lindt - Mleczna czekolada nadziewana whisky",
+    "price": 15.98
+  },
+  {
+    "product_name": "Auchan - Czekolada bia\u0142a",
+    "price": 6.19
+  },
+  {
+    "product_name": "Lindt - Excellence czekolada bia\u0142a z wanili\u0105",
+    "price": 9.98
+  },
+  {
+    "product_name": "Auchan - Czekolada bia\u0142a z karmelizowanymi wi\u00f3rkami kokosowymi",
+    "price": 9.99
+  },
+  {
+    "product_name": "Lindt - Excellence czekolada gorzka z orzechami i karmelem ",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence Czekolada gorzka z \u017curawin\u0105 i orzechami",
+    "price": 9.98
+  },
+  {
+    "product_name": "Auchan - Czekolada mleczna z bakaliami",
+    "price": 9.99
+  },
+  {
+    "product_name": "Auchan - Czekolada mleczna z ca\u0142ymi orzechami laskowymi",
+    "price": 9.99
+  },
+  {
+    "product_name": "Auchan - Czekolada deserowa o smaku mi\u0119towym",
+    "price": 6.19
+  },
+  {
+    "product_name": "Auchan - Czekolada deserowa z sol\u0105 morsk\u0105",
+    "price": 6.19
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka 72% kakao",
+    "price": 6.19
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka 74% kakao z karmelizowanymi ziarnami kakao ",
+    "price": 6.19
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka 85% kakao",
+    "price": 6.19
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka z kandyzowan\u0105 sk\u00f3rk\u0105 pomara\u0144czow\u0105",
+    "price": 6.19
+  },
+  {
+    "product_name": "Auchan - Czekolada deserowa z kawa\u0142kami karmelu i sol\u0105 morsk\u0105",
+    "price": 6.79
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka cytrynowa",
+    "price": 6.99
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka z malinami",
+    "price": 6.99
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka 90% ",
+    "price": 7.99
+  },
+  {
+    "product_name": "Lindt - Czekolada ciemna z pomara\u0144cz\u0105 i migda\u0142em",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Czekolada gorzka z sol\u0105 morsk\u0105",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Czekolada z figami i kawa\u0142kami herbatnik\u00f3w",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence czekolada deserowa z kawa\u0142kami gruszki i migda\u0142\u00f3w",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence Czekolada gorzka 100% kakao ",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence Czekolada gorzka 78% kakao",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence czekolada gorzka 90% kakao",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence czekolada gorzka 99% kakao",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence czekolada gorzka z karmelem i sola morsk\u0105",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Excellence czekolada gorzka z mango i migda\u0142ami",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Szwajcarska czekolada ciemna z ekstraktem z papryki chili",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Wy\u015bmienita czekolada ciemna 70%",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Wy\u015bmienita czekolada ciemna 85%",
+    "price": 9.98
+  },
+  {
+    "product_name": "Lindt - Wy\u015bmienita czekolada ciemna z kawa\u0142kami malin",
+    "price": 9.98
+  },
+  {
+    "product_name": "Auchan - Czekolada gorzka z gruszk\u0105",
+    "price": 8.99
+  },
+  {
+    "product_name": "Goplana - Figurka renifer o smaku karmelowym w czekoladzie",
+    "price": 1.79
+  },
+  {
+    "product_name": "Kinder - Batonik z mlecznej czekolady z nadzieniem mlecznym",
+    "price": 5.68
+  },
+  {
+    "product_name": "Alpen Gold - Nussbeisser czekolada mleczna z ca\u0142ymi orzechami laskowymi ",
+    "price": 15.98
+  },
+  {
+    "product_name": "Lindt - Czekolada deserowa z ca\u0142ymi orzechami laskowymi",
+    "price": 34.49
+  },
+  {
+    "product_name": "Lindt - Czekolada mleczna z bakaliami",
+    "price": 34.49
+  },
+  {
+    "product_name": "Lindt - Szwajcarska czekolada mleczna",
+    "price": 34.49
+  },
+  {
+    "product_name": "Lindt - Szwajcarska czekolada mleczna z ca\u0142ymi orzechami laskowymi",
+    "price": 34.49
+  },
+  {
+    "product_name": "Auchan - Ciastka przek\u0142adane kremem kakaowym",
+    "price": 3.99
+  },
+  {
+    "product_name": "Tago - Dzwoneczki - herbatniki korzenne",
+    "price": 9.29
+  },
+  {
+    "product_name": "Krakuski - Herbatniki barbakanki korzenne ",
+    "price": 6.69
+  },
+  {
+    "product_name": "Krakuski - Herbatniki barbakanki korzenne w czekoladzie mlecznej",
+    "price": 6.69
+  },
+  {
+    "product_name": "Krakuski - Herbatniki barbakanki korzenne z dodatkiem mas\u0142a",
+    "price": 6.69
+  },
+  {
+    "product_name": "Kopernik - Pierniki lukrowane (20% lukru)",
+    "price": 3.99
+  },
+  {
+    "product_name": "Auchan - Pierniki korzenne glazurowane",
+    "price": 2.99
+  },
+  {
+    "product_name": "Auchan - Pierniki lukrowane",
+    "price": 3.39
+  },
+  {
+    "product_name": "Auchan - Pierniki w czekoladzie 14% z nadzieniem owocowym 22%",
+    "price": 4.19
+  },
+  {
+    "product_name": "Auchan - Pierniki z nadzieniem \u015bliwkowym w czekoladzie",
+    "price": 4.19
+  },
+  {
+    "product_name": "Kopernik - Pierniki w bia\u0142ej czekoladzie z nadzieniem o smaku czarnej porzeczki",
+    "price": 6.48
+  },
+  {
+    "product_name": "Kopernik - Serca piernikowe w deserowej czekoladzie",
+    "price": 6.68
+  },
+  {
+    "product_name": "LambertZ - Pierniki w czekoladzie",
+    "price": 7.49
+  },
+  {
+    "product_name": "LambertZ - Pierniki w czekoladzie mlecznej",
+    "price": 7.49
+  },
+  {
+    "product_name": "Auchan - Pierniki w czekoladzie ",
+    "price": 7.99
+  },
+  {
+    "product_name": "Auchan - Pierniki w czekoladzie mlecznej ",
+    "price": 7.99
+  },
+  {
+    "product_name": "Kopernik Toru\u0144 - Pierniki w gorzkiej czekoladzie z nadzieniem pomara\u0144czowym",
+    "price": 8.38
+  },
+  {
+    "product_name": "Kopernik - Listki waflowe w czekoladzie",
+    "price": 8.68
+  },
+  {
+    "product_name": "Kopernik - Piernik w czekoladzie przek\u0142adany nadzieniem owocowym",
+    "price": 8.98
+  },
+  {
+    "product_name": "LambertZ - Lukrowane pierniki na cienkim waflu",
+    "price": 9.19
+  },
+  {
+    "product_name": "LambertZ - Wyborne pierniki z Norymbergii w czekoladzie",
+    "price": 9.19
+  },
+  {
+    "product_name": "Kopernik - Pierniki toru\u0144skie w czekoladzie o smaku \u015bliwkowym",
+    "price": 9.89
+  },
+  {
+    "product_name": "Auchan - Biszkopty z galaretk\u0105 malinow\u0105 w polewie kakaowej",
+    "price": 2.69
+  },
+  {
+    "product_name": "Auchan - Biszkopty z galaretk\u0105 pomara\u0144czow\u0105 w polewie kakaowej",
+    "price": 2.69
+  },
+  {
+    "product_name": "Auchan - Biszkopty z galaretk\u0105 wi\u015bniow\u0105 w polewie kakaowej",
+    "price": 2.69
+  },
+  {
+    "product_name": "Auchan - Biszkopty z galaretk\u0105 o smaku pomara\u0144czowym w czekoladzie",
+    "price": 3.29
+  },
+  {
+    "product_name": "Auchan - Biszkopty z galaretk\u0105 o smaku truskawkowym w czekoladzie",
+    "price": 3.29
+  },
+  {
+    "product_name": "Auchan - Biszkopty z galaretk\u0105 wi\u015bniow\u0105 w czekoladzie",
+    "price": 3.29
+  },
+  {
+    "product_name": "Mieszko - Likwory o smaku whisky",
+    "price": 11.98
+  },
+  {
+    "product_name": "Mieszko - Likwory o smaku w\u00f3dki",
+    "price": 11.98
+  },
+  {
+    "product_name": "Mieszko - Pralinki czekoladowe nadzieniem o smaku brandy",
+    "price": 11.98
+  },
+  {
+    "product_name": "Raffaello - Praliny kokosowe",
+    "price": 12.3
+  },
+  {
+    "product_name": "Ferrero - Rocher Praliny z kremowym nadzieniem i orzechem laskowym",
+    "price": 12.98
+  },
+  {
+    "product_name": "Auchan - \u015aliwka w czekoladzie",
+    "price": 12.99
+  },
+  {
+    "product_name": "E.Wedel - Orzechowy arachidowy torcik waflowy w czekoladzie deserowej",
+    "price": 14.98
+  },
+  {
+    "product_name": "Solidarno\u015b\u0107 - \u015aliwka kandyzowana w masie kakaowej w czekoladzie ",
+    "price": 15.28
+  },
+  {
+    "product_name": "Caractere  - Pralinki z koniakiem ",
+    "price": 15.64
+  },
+  {
+    "product_name": "Mieszko - Czekoladki marcepanowe amoretta",
+    "price": 15.99
+  },
+  {
+    "product_name": "Mieszko - Praliny Magic Winter Roses",
+    "price": 15.99
+  },
+  {
+    "product_name": "Merci - Finest Selection br\u0105zowe kolekcja w deserowej czekoladzie",
+    "price": 17.97
+  },
+  {
+    "product_name": "Merci - Finest Selection niebieskie kolekcja w mlecznej czekoladzie",
+    "price": 17.97
+  },
+  {
+    "product_name": "Merci - Finest Selection zielone kolekcja czekoladek z migda\u0142ami",
+    "price": 17.97
+  },
+  {
+    "product_name": "Storck - Merci czekoladki nadziewane musem ",
+    "price": 17.97
+  },
+  {
+    "product_name": "Vobro - Czekoladki nadziewane wi\u015bni\u0105 w alkoholu ",
+    "price": 27.49
+  },
+  {
+    "product_name": "Raffaello - Praliny kokosowe",
+    "price": 18.88
+  },
+  {
+    "product_name": "Edle Tropfen - Praliny z alkoholem orzechowe klasyczne marki",
+    "price": 20.99
+  },
+  {
+    "product_name": "Edle Tropfen - Praliny z alkoholem orzechowe owocowe marki",
+    "price": 20.99
+  },
+  {
+    "product_name": "Bolci - Praliny mleczno czekoladowe Nowy Rok",
+    "price": 23.99
+  },
+  {
+    "product_name": "Bolci - Praliny \u015bwi\u0105teczne mleczno czekoladowe ",
+    "price": 23.99
+  },
+  {
+    "product_name": "Solidarno\u015b\u0107 - Czekoladki w bombce Z\u0142ota Wi\u015bnia ",
+    "price": 27.99
+  },
+  {
+    "product_name": "Mieszko - Cherrisimo Classic praliny wi\u015bniowe",
+    "price": 28.79
+  },
+  {
+    "product_name": "Vobro - Cherry passion sparkling wine bombonierka",
+    "price": 29.99
+  },
+  {
+    "product_name": "Mieszko - Bombonierka Cherrissimo vodka",
+    "price": 32.38
+  },
+  {
+    "product_name": "Mieszko - Cherrissimo Praliny z wi\u015bni\u0105 w alkoholu w trzech smakach",
+    "price": 32.38
+  },
+  {
+    "product_name": "Mieszko - Amoretta Classic Praliny w czekoladzie mlecznej i deserowej",
+    "price": 34.49
+  },
+  {
+    "product_name": "Mieszko - Amoretta Desserts Praliny w czekoladzie mlecznej i deserowej",
+    "price": 34.49
+  },
+  {
+    "product_name": "Vobro - Praliny z bia\u0142ej czekolady i czekolady nadziewane kremem",
+    "price": 34.49
+  },
+  {
+    "product_name": "Mieszko - Bombonierka \u015aliwka w czekoladzie ",
+    "price": 54.99
+  },
+  {
+    "product_name": "Mieszko - Cherrissimo praliny wi\u015bniowe w puszce",
+    "price": 59.99
+  },
+  {
+    "product_name": "Mieszko - Praliny nadziewane r\u00f3\u017cne smaki",
+    "price": 54.99
+  },
+  {
+    "product_name": "Solidarno\u015b\u0107 - Czekoladki z wi\u015bni\u0105 alkoholizowan\u0105 w likierze ",
+    "price": 36.79
+  },
+  {
+    "product_name": "Solidarno\u015b\u0107 - \u015aliwka kandyzowana w masie kakaowej w czekoladzie ",
+    "price": 37.99
+  },
+  {
+    "product_name": "Vobro - Praliny czekoladowe o smaku Panna Cotta z malinami",
+    "price": 45.69
+  },
+  {
+    "product_name": "Bolci - Bombonierka z czekoladkami",
+    "price": 61.99
+  },
+  {
+    "product_name": "Sorini - Czekoladki mleczne w bombonierce w kszt\u0142acie latarni",
+    "price": 59.99
+  },
+  {
+    "product_name": "Lindt - Praliny creation petits desserts",
+    "price": 99.99
+  },
+  {
+    "product_name": "Auchan - Mleczka waniliowe",
+    "price": 10.99
+  },
+  {
+    "product_name": "Auchan - Mleczko \u015bmietankowe",
+    "price": 10.99
+  },
+  {
+    "product_name": "Wawel - Kr\u00f3lewskie mleczko waniliowe",
+    "price": 13.98
+  },
+  {
+    "product_name": "E. Wedel - Ptasie mleczko \u015bmietankowe",
+    "price": 16.97
+  },
+  {
+    "product_name": "Wedel - Ptasie Mleczko waniliowe",
+    "price": 16.97
+  },
+  {
+    "product_name": "Mieszko - Trufle o smaku czekoladowym",
+    "price": 11.98
+  },
+  {
+    "product_name": "Lindt - Marcepan w gorzkiej czekoladzie",
+    "price": 7.49
+  },
+  {
+    "product_name": "Zentis - Chlebek marcepanowy",
+    "price": 10.39
+  },
+  {
+    "product_name": "Schluckwerder - Kartofelki marcepanowe",
+    "price": 12.39
+  },
+  {
+    "product_name": "Haribo - \u017belki Z\u0142ote Misie",
+    "price": 5.48
+  },
+  {
+    "product_name": "Haribo - Kinder Party \u017celki owocowe",
+    "price": 11.98
+  },
+  {
+    "product_name": "Haribo - \u017belki owocowe\u00a0Haribo\u00a0Z\u0142ote Misie",
+    "price": 11.98
+  },
+  {
+    "product_name": "Haribo - \u017belki Z\u0142ote Mi\u015bki",
+    "price": 25.89
+  },
+  {
+    "product_name": "Kinder - Jajko niespodzianka",
+    "price": 4.14
+  },
+  {
+    "product_name": "Kinder - Jajko niespodzianka",
+    "price": 4.18
+  },
+  {
+    "product_name": "Kinder - Joy jajko z wafelkami i niespodziank\u0105 ",
+    "price": 4.54
+  },
+  {
+    "product_name": "Auchan - Agrest kandyzowany w czekoladzie",
+    "price": 4.79
+  },
+  {
+    "product_name": "Auchan - Migda\u0142 pra\u017cony w czekoladzie i czekoladzie bia\u0142ej",
+    "price": 4.79
+  },
+  {
+    "product_name": "Auchan - Orzech laskowy w czekoladzie ",
+    "price": 4.79
+  },
+  {
+    "product_name": "Auchan - Orzech laskowy w czekoladzie mlecznej ",
+    "price": 4.79
+  },
+  {
+    "product_name": "Auchan - Orzeszki arachidowe w czekoladzie",
+    "price": 4.79
+  },
+  {
+    "product_name": "Auchan - Rodzynki w czekoladzie mlecznej",
+    "price": 4.79
+  },
+  {
+    "product_name": "Auchan - Wi\u015bnia kandyzowana w czekoladzie",
+    "price": 4.79
+  },
+  {
+    "product_name": "Auchan - \u017burawina kandyzowana w czekoladzie mlecznej",
+    "price": 4.79
+  },
+  {
+    "product_name": "Zaini - Jajko z mlecznej czekolady z niespodziank\u0105",
+    "price": 4.98
+  },
+  {
+    "product_name": "Maoam - Guma rozpuszczalna musuj\u0105ca",
+    "price": 6.89
+  },
+  {
+    "product_name": "Maoam - Guma rozpuszczalna owocowa",
+    "price": 6.89
+  },
+  {
+    "product_name": "Maoam - Guma rozpuszczalna owocowa",
+    "price": 6.89
+  },
+  {
+    "product_name": "Auchan - Cukierki czekoladowe o smaku truflowym ",
+    "price": 6.99
+  },
+  {
+    "product_name": "Auchan - Cukierki czekoladowe z orzechami archaidowymi",
+    "price": 6.99
+  },
+  {
+    "product_name": "Auchan - Cukierki czekoladowe mieszanka ",
+    "price": 8.29
+  },
+  {
+    "product_name": "Kinder - Schoko bons czekoladki z nadzieniem mlecznym i orzechami",
+    "price": 9.88
+  },
+  {
+    "product_name": "Milky Way - Gwiazdki z puszystej mlecznej czekolady",
+    "price": 11.39
+  },
+  {
+    "product_name": "Zaini - Czekoladowe Jajka Niespodzianki Hot Wheels 3-PAK",
+    "price": 12.99
+  },
+  {
+    "product_name": "Ritter Sport - Czekolada mleczna nadziewana kremem z orzechami laskowym",
+    "price": 18.89
+  },
+  {
+    "product_name": "Chupa Chups - Lizaki wielosmakowe ",
+    "price": 7.14
+  },
+  {
+    "product_name": "Chupa Chups - Lizaki wielosmakowe",
+    "price": 7.14
+  },
+  {
+    "product_name": "Chupa Chups - Lizaki o smaku owoc\u00f3w ",
+    "price": 32.99
+  },
+  {
+    "product_name": "Dr. Oetker - Barwnik spo\u017cywczy niebieski w \u017celu",
+    "price": 4.75
+  },
+  {
+    "product_name": "Auchan - Zestaw 6 rodzaj\u00f3w herbat ekspresowych",
+    "price": 27.99
+  },
+  {
+    "product_name": "Lindt - Assorted praliny",
+    "price": 21.98
+  },
+  {
+    "product_name": "Lindt - Lindor pralinki z czekolady mlecznej z nadzieniem choinka",
+    "price": 21.98
+  },
+  {
+    "product_name": "Mieszko - Cukierki trufle w czekoladzie z nadzieniem rumowym ",
+    "price": 11.99
+  },
+  {
+    "product_name": "Cosmo - Zestaw \u015bwi\u0105tecznych figurek z czekolady",
+    "price": 7.49
+  },
+  {
+    "product_name": "Terravita - Miko\u0142aj z mlecznej czekolady",
+    "price": 3.29
+  },
+  {
+    "product_name": "Ferrero - Praliny rocher grand ciemna czekolada z orzechami laskowymi",
+    "price": 28.99
+  },
+  {
+    "product_name": "Hildebrand - Baton marcepanowy w czekoladzie",
+    "price": 5.98
+  },
+  {
+    "product_name": "Michaszki Mieszko - Cukierki z orzeszkami arachidowymi w czekoladzie",
+    "price": 11.99
+  },
+  {
+    "product_name": "Goplana - Figurka miko\u0142aj o smaku karmelowym w czekoladzie",
+    "price": 1
+  },
+  {
+    "product_name": "Pergale - Bombonierka z czekoladkami Magia \u015awi\u0105t ",
+    "price": 11.99
+  },
+  {
+    "product_name": "E.Wedel - Bary\u0142ki o smaku soplicy",
+    "price": 19.97
+  },
+  {
+    "product_name": "Edle Tropfen - Praliny z alkoholem orzechowe likiery owocowe",
+    "price": 20.99
+  }
+]
